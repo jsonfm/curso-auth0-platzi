@@ -1,2 +1,7 @@
-# platzi-autenticacion
-Curso de Autenticación con OAuth 2.0
+### Authentication Course
+of Platzi.
+
+### Secret Key
+```sh
+echo $(date) "$RANDOM"  | sha256sum
+```
